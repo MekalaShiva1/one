@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Latest Collection in 2025</h1> 
-  <h3>Winter Special <span style="color: #F7EF79; font-weight: bold;">50% Off</span></h3>
+
 
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
