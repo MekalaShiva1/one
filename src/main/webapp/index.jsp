@@ -826,7 +826,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Latest Collection in 2025</h1> 
+            <h1>Latest Collection in 2025 </h1>  
+<p> winter special 50% off</P>
 
 
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
