@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Latest Collection in 2025 </h1>  
+            <h1>Latest Collection in winter </h1>  
 
 
 
